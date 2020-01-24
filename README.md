@@ -18,6 +18,7 @@ Cons:
 
 
 ## Wix
+The Cheapest option
 
 Pros: 
 * $23-49/mo. 
@@ -28,6 +29,7 @@ Cons:
 * No eBay integration
 
 ## BigCommerse
+
 $80/mo. | $250/mo.
 
 Pros:
@@ -46,11 +48,17 @@ Pros:
 * View all orders in one place
 
 ## sellbrite
+$149/mo
+
 Pros:
 * Lists on Amazon, eBay, Etsy, Walmart, etc.
 * Works with Shopify, BigCommerce and WooCommerce
 
-# Pricing Chart
-Shop      | Price 
-----      | -----
-Sellbrite | $149/mo.
+## ChannelAdvisor
+Pros:
+* Lists on Amazon, eBay, Etsy, etc.
+* Lists on Facebook
+* Lists on Shopify, BigCommerce
+Cons:
+* Doesn't list on Etsy
+* No price listing
